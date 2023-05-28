@@ -1,9 +1,6 @@
 body {
   font-family: 'Open Sans', sans-serif;
 
-  background: rgb(254,190,16);
-background: linear-gradient(150deg, rgba(254,190,16,1) 0%, rgba(255,255,255,1) 50%, rgba(0,0,0,1) 100%);
-
   text-align: center;
   margin: 0;
 }
